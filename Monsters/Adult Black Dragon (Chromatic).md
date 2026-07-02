@@ -1,53 +1,56 @@
-# Adult Black Dragon (Chromatic)
+# Schwarzer Drache (Chromatisch)
 
-*Huge dragon, chaotic evil*
+<img width="2560" height="1656" alt="image" src="https://github.com/user-attachments/assets/014f4876-11bc-4bfd-ba08-c93167dfbdbf" />
 
-**Armor Class** 19 (natural armor)
 
-**Hit Points** 195 (17d12+85)
+*Riesiger Drache, chaotisch böse*
 
-**Speed** 40 ft., fly 80 ft., swim 40 ft.
+**Rüstungsklasse** 19 (natürliche Rüstung)
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+**Trefferpunkte** 195 (17W12+85)
+
+**Geschwindigkeit** 40 Fuß, Schmetterling 80 Fuß, Schwimmen 40 Fuß.
+
+| STR | DEX | CON | INT | WIS | CHA |
 |---------|---------|---------|---------|---------|---------|
 | 23 (+6) | 14 (+2) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
 
-**Saving Throws** Dex +7, Con +10, Wis +6, Cha +8
+**Rettungswürfe** Geschicklichkeit +7, Konstitution +10, Weisheit +6, Charisma +8
 
-**Skills** Perception +11, Stealth +7
+**Fertigkeiten** Wahrnehmung +11, Heimlichkeit +7
 
-**Damage Immunities** acid
+**Schadensimmunitäten** Säure
 
-**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+**Sinne** Blindgespür 18 m, Dunkelsicht 36 m, passive Wahrnehmung 21
 
-**Languages** Common, Draconic
+**Sprachen** Gemeinsprache, Drakonisch
 
-**Challenge** 14 (11,500 XP)
+**Herausforderung** 14 (11.500 EP)
 
-***Amphibious***. The dragon can breathe air and water.
+***Amphibisch***. Der Drache kann sowohl an Land als auch im Wasser atmen.
 
-***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
+***Legendäre Resistenz (3/Tag)***. Wenn der Drache einen Rettungswurf nicht schafft, kann er stattdessen einen Erfolg erzielen.
 
-###### Actions
+## Aktionen
 
-***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+***Mehrfachangriff***. Der Drache kann seine Furchteinflößende Präsenz einsetzen. Anschließend führt er drei Angriffe aus: einen mit seinem Biss und zwei mit seinen Klauen.
 
-***Bite***. *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) acid damage.
+***Biss***. *Nahkampfwaffenangriff:* +11 zum Treffen, Reichweite 3 m, ein Ziel. *Treffer:* 17 (2W10+6) Stichschaden plus 4 (1W8) Säureschaden.
 
-***Claw***. *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+***Klaue***. *Nahkampfwaffenangriff:* +11 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 13 (2W6+6) Hiebschaden.
 
-***Tail***. *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+***Schwanz***. *Nahkampfwaffenangriff:* +11 zum Treffen, Reichweite 4,5 m, ein Ziel. *Treffer:* 15 (2W8+6) Wuchtschaden.
 
-***Frightful Presence***. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+***Furchterregende Präsenz***. Jede Kreatur nach Wahl des Drachen, die sich in einem Umkreis von 36 Metern um den Drachen befindet und ihn wahrnimmt, muss einen Weisheitsrettungswurf (SG 16) bestehen oder wird für 1 Minute verängstigt. Eine Kreatur kann den Rettungswurf am Ende jedes ihrer Züge wiederholen und den Effekt bei Erfolg beenden. Gelingt der Rettungswurf einer Kreatur oder endet der Effekt für sie, ist die Kreatur für die nächsten 24 Stunden immun gegen die Furchterregende Präsenz des Drachen.
 
-***Acid Breath (Recharge 5-6)***. The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+***Säureatem (Aufladung 5-6)***. Der Drache speit Säure in einer 18 Meter langen und 1,5 Meter breiten Linie. Jede Kreatur in dieser Linie muss einen Geschicklichkeitsrettungswurf (SG 18) bestehen. Bei einem Fehlschlag erleidet sie 54 (12W8) Säureschaden, bei einem Erfolg die Hälfte.
 
-###### Legendary Actions
+###### Legendäre Aktionen
 
-The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+Der Drache kann 3 legendäre Aktionen aus den folgenden Optionen ausführen. Es kann immer nur eine legendäre Aktion gleichzeitig und nur am Ende des Zuges einer anderen Kreatur eingesetzt werden. Der Drache erhält seine verbrauchten legendären Aktionen zu Beginn seines Zuges zurück.
 
-**Detect**. The dragon makes a Wisdom (Perception) check.
+**Erkennen**. Der Drache führt eine Weisheitsprobe (Wahrnehmung) durch.
 
-**Tail Attack**. The dragon makes a tail attack.
+**Schwanzangriff**. Der Drache führt einen Schwanzangriff aus.
 
-**Wing Attack (Costs 2 Actions)**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**Flügelangriff (Kosten: 2 Aktionen)**. Der Drache schlägt mit den Flügeln. Jede Kreatur im Umkreis von 3 Metern um den Drachen muss einen Geschicklichkeitsrettungswurf (SG 19) bestehen oder erleidet 13 (2W6+6) Wuchtschaden und wird zu Boden geworfen. Der Drache kann anschließend mit bis zu seiner halben Fluggeschwindigkeit fliegen.
