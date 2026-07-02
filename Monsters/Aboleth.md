@@ -1,51 +1,53 @@
 ## Aboleth
 
-*Large aberration, lawful evil*
+<img width="1000" height="868" alt="IMG_7846" src="https://github.com/user-attachments/assets/7895dd16-ea3b-496d-b493-70759f6e6654" />
 
-**Armor Class** 17 (natural armor)
+*Große Abweichung, rechtschaffen böse*
 
-**Hit Points** 135 (18d10+36)
+**Rüstungsklasse** 17 (natürliche Rüstung)
 
-**Speed** 10 ft., swim 40 ft.
+**Trefferpunkte** 135 (18W10+36)
 
-| STR     | DEX    | CON     | INT     | WIS     | CHA     |
+**Geschwindigkeit** 10 Fuß, Schwimmen 40 Fuß.
+
+| STR | DEX | CON | INT | WIS | CHA |
 |---------|--------|---------|---------|---------|---------|
 | 21 (+5) | 9 (-1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
 
-**Saving Throws** Con +6, Int +8, Wis +6
+**Rettungswürfe** Konstitution +6, Intelligenz +8, Weisheit +6
 
-**Skills** History +12, Perception +10
+**Fertigkeiten** Geschichte +12, Wahrnehmung +10
 
-**Senses** darkvision 120 ft., passive Perception 20
+**Sinne** Dunkelsicht 36 m, passive Wahrnehmung 20
 
-**Languages** Deep Speech, telepathy 120 ft.
+**Sprachen** Tiefensprache, Telepathie 120 Fuß.
 
-**Challenge** 10 (5,900 XP)
+**Herausforderung** 10 (5.900 EP)
 
-***Amphibious***. The aboleth can breathe air and water.
+***Amphibisch***. Der Aboleth kann sowohl an Land als auch im Wasser atmen.
 
-***Mucous Cloud***. While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 feet of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.
+***Schleimwolke***. Unter Wasser ist der Aboleth von transformierendem Schleim umgeben. Jede Kreatur, die den Aboleth berührt oder ihn innerhalb von 1,5 Metern mit einem Nahkampfangriff trifft, muss einen Konstitutionsrettungswurf (SG 14) bestehen. Bei Misserfolg ist die Kreatur für 1W4 Stunden infiziert. Die infizierte Kreatur kann nur unter Wasser atmen.
 
-***Probing Telepathy***. If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.
+***Erforschende Telepathie***. Wenn ein Wesen telepathisch mit dem Aboleth kommuniziert, erfährt der Aboleth die größten Wünsche des Wesens, sofern er es sehen kann.
 
-###### Actions
+## Aktionen
 
-***Multiattack***. The aboleth makes three tentacle attacks.
+***Mehrfachangriff***. Der Aboleth führt drei Tentakelangriffe aus.
 
-***Tentacle***. *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 12 (2d6+5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by *heal* or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
+***Tentakel***. *Nahkampfwaffenangriff:* +9 zum Treffen, Reichweite 3 m, ein Ziel. *Treffer:* 12 (2W6+5) Wuchtschaden. Ist das Ziel eine Kreatur, muss es einen Konstitutionsrettungswurf (SG 14) bestehen, um nicht zu erkranken. Die Krankheit hat 1 Minute lang keine Auswirkungen und kann durch jeden Zauber, der Krankheiten heilt, entfernt werden. Nach 1 Minute wird die Haut der erkrankten Kreatur durchscheinend und schleimig. Die Kreatur kann keine Trefferpunkte regenerieren, es sei denn, sie befindet sich unter Wasser, und die Krankheit kann nur durch *Heilung* oder einen anderen Zauber, der Krankheiten heilt (ab Grad 6), geheilt werden. Befindet sich die Kreatur außerhalb eines Gewässers, erleidet sie alle 10 Minuten 6 (1W12) Säureschaden, es sei denn, ihre Haut wird innerhalb von 10 Minuten mit Feuchtigkeit versorgt.
 
-***Tail***. *Melee Weapon Attack:* +9 to hit, reach 10 ft. one target. *Hit:* 15 (3d6+5) bludgeoning damage.
+***Schwanz***. *Nahkampfwaffenangriff:* +9 zum Treffen, Reichweite 3 m, ein Ziel. *Treffer:* 15 (3W6+5) Wuchtschaden.
 
-***Enslave (3/Day)***. The aboleth targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance.
+***Versklaven (3/Tag)***. Der Aboleth wählt eine Kreatur in Sichtweite von 9 Metern. Das Ziel muss einen Weisheitsrettungswurf (SG 14) bestehen, sonst wird es vom Aboleth magisch verzaubert, bis dieser stirbt oder sich auf einer anderen Existenzebene befindet. Das verzauberte Ziel steht unter der Kontrolle des Aboleths und kann keine Reaktionen ausführen. Aboleth und Ziel können telepathisch über beliebige Entfernungen miteinander kommunizieren.
 
-Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
+Immer wenn das verzauberte Ziel Schaden erleidet, kann es den Rettungswurf wiederholen. Gelingt dieser, endet der Effekt. Das Ziel kann den Rettungswurf außerdem höchstens einmal alle 24 Stunden wiederholen, wenn es mindestens 1,6 Kilometer vom Aboleth entfernt ist.
 
-###### Legendary Actions
+## Legendäre Aktionen
 
-The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The aboleth regains spent legendary actions at the start of its turn.
+Der Aboleth kann 3 legendäre Aktionen aus den folgenden Optionen ausführen. Es kann immer nur eine legendäre Aktion gleichzeitig und nur am Ende des Zuges einer anderen Kreatur eingesetzt werden. Der Aboleth erhält verbrauchte legendäre Aktionen zu Beginn seines Zuges zurück.
 
-**Detect**. The aboleth makes a Wisdom (Perception) check.
+**Erkennen**. Der Aboleth führt eine Weisheitsprobe (Wahrnehmung) durch.
 
-**Tail Swipe**. The aboleth makes one tail attack.
+**Schwanzhieb**. Der Aboleth führt einen Schwanzhieb aus.
 
-**Psychic Drain (Costs 2 Actions)**. One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
+**Psychischer Entzug (Kosten: 2 Aktionen)**. Eine vom Aboleth verzauberte Kreatur erleidet 10 (3W6) psychischen Schaden, und der Aboleth erhält Trefferpunkte in Höhe des Schadens zurück, den die Kreatur erleidet.
